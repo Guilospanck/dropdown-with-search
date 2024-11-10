@@ -1,4 +1,4 @@
-const SELECT_OPTIONS = ["potato", "larry", "jesus"];
+const SELECT_OPTIONS = ["potato", "larry", "bob"];
 
 let isOpened = false;
 
